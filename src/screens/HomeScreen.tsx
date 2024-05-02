@@ -31,7 +31,7 @@ const HomeScreen = () => {
     <ScrollView style={styles.container}>
       <View style={styles.header}>
         <Text variant="titleLarge" style={styles.headerTitle}>
-          Trending
+          Trending 2222
         </Text>
         <Button mode="contained-tonal" onPress={showNotImplementedAlert}>
           See All
